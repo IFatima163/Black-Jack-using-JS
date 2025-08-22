@@ -1,4 +1,18 @@
-This folder holds a simple game of Black Jack (on the browser) using html, css, and js.
+# Black Jack
+A simple web-game of a round of Black Jack
 
-*created following YT tutorial
-*link to tutorial could not be found :(
+## Features
+- Starting Menu
+- Start, restart, and quit options
+- First-person POV
+- Game Over Screen
+
+## Tech Stack
+- **Frontend:** HTML, CSS
+- **Backend:** Javascript
+
+## Development Notes
+- Configured Git repository & basic setup
+- Implemented core functionality, restart mechanism, game over mechanism, and pause mechanism
+- Added start menu, pause menu, game over menu, and options menu
+- Added card sprites and choosing option
