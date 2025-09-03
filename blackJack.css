@@ -1,0 +1,29 @@
+body
+{
+	text-align: center;
+	color: white;
+	font-family: Trebuchet MS , monospace;
+	font-weight: bold;
+	font-size: xx-large;
+	background: url(table.png);
+	background-size: cover;
+}
+
+h1
+{
+	color: goldenrod;
+}
+
+.buttons
+{
+	color: #006400;
+	font-size:large;
+	font-family: monospace;
+	font-weight: bold;
+	width: 150px;
+	margin-top: 20px;
+	padding: 20px 0px 20px 0px;
+	background-color: goldenrod;
+	border: none;
+	border-radius: 2px;
+}
